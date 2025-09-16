@@ -45,7 +45,7 @@ git clone https://github.com/<your-username>/exercise-tracker.git
 cd exercise-tracker
 
 ---
----
+
 
 # Learning Outcomes
 - This project illustrates key academic and professional skills:
