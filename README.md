@@ -36,7 +36,14 @@ The application applies key concepts of **API consumption**, **authentication me
 - **Data Storage:** Google Sheets via Sheety API  
 
 ---
-
+# Learning Outcomes
+- This project illustrates key academic and professional skills:
+- REST API integration using requests.
+- Handling natural language processing via Nutritionix.
+- Data persistence through Google Sheets APIs.
+- Implementation of authentication protocols.
+- Secure credential management with environment variables.
+ --- 
 ## ⚡ Setup Instructions
 
 ### 1. Clone the Repository
@@ -47,10 +54,4 @@ cd exercise-tracker
 ---
 
 
-# Learning Outcomes
-- This project illustrates key academic and professional skills:
-- REST API integration using requests.
-- Handling natural language processing via Nutritionix.
-- Data persistence through Google Sheets APIs.
-- Implementation of authentication protocols.
-- Secure credential management with environment variables.
+
